@@ -1,7 +1,8 @@
 export default function() {
   return [
-    { title: 'Javascript: The Good Parts 1'},
-    { title: 'Javascript: The Good Parts 2'},
-    { title: 'Javascript: The Good Parts 3'}
-  ]
+    { title: 'A book', pages: 101 },
+    { title: 'another book', pages: 1101 },
+    { title: 'Book1', pages: 1011 },
+    { title: 'Book2', pages: 199 }
+  ];
 }
